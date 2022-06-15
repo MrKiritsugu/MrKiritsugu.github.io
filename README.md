@@ -2,6 +2,5 @@
 
 Reinforce HTML knowledge
 
-Bu site projesi bir tarif sitesi projesidir. Bu proje sayesinde, bir siteye bağlantı 
-veya resim ekleme veya metin biçimlendirme gibi HTML bilgilerimi pekiştireceğimi 
-umuyorum.
+This site project is a recipe site project. Through this project, I hope to consolidate my knowledge of HTML, such as adding links or images to a site, 
+or formatting text.
